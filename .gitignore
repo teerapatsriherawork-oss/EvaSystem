@@ -1,10 +1,6 @@
 **/node_modules/
 node_modules/
 
-# env (ห้าม commit ความลับ เช่น JWT_SECRET, DB_PASSWORD)
-.env
-**/.env
-
 # uploads
 backend/uploads/
 
